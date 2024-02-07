@@ -21,4 +21,5 @@ Greenden is a website dedicated to providing customers with a diverse selection 
 To get started with Greenden, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser. You can also deploy the website to a live server to share it with others.
 
 ```bash
-git clone cd greenden
+git clone https://harisurya59.github.io/Greenten-tailwind/
+cd greenden
